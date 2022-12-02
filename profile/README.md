@@ -1,5 +1,5 @@
 
-<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
+<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 0em; margin-block-end: 1em;">
   <br /><br /><strong>SERVERLESS TRADER</strong>
 </h1>
 
@@ -13,5 +13,5 @@ This project can be a starting point to build a scalable, cost-efficient (low-co
 - Technical indicators 
 - Example trading strategy which implements basic concepts
 
-To get started, please read the [Documentation Repository](https://github.com/serverless-trader/documentation/README.md)
+To get started, please read the [Documentation Repository](https://github.com/serverless-trader/documentation)
 
